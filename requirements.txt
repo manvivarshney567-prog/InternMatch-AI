@@ -1,5 +1,7 @@
 
 streamlit
+pandas
 google-genai
 pypdf
 plotly
+scikit-learn
